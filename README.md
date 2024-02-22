@@ -21,6 +21,8 @@ This repo is my attempt at recreating and experimenting with LLMs as shown by Je
 5. testing_the_fine_tuned_model.py
   - python script used for making inference on data using the finetuned llama2 model, used in finetuning_with_axoltol.ipyng
 
+## Youtube Video
+ - https://youtu.be/dZtsMzbCg8g
 ## References
   - https://github.com/openai/openai-python
   - https://github.com/fastai/lm-hackers/blob/main/lm-hackers.ipynb
